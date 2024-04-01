@@ -6,12 +6,10 @@ Write in a file `to-git-or-not-to-git.sh` the command that will show the `name`,
 
 - Where to look : [superhero](<https://((DOMAIN))/assets/superhero/all.json>)
 
-The output should be exactly like the example below:
+Upon running ``bash to-git-or-not-to-git.sh``, the output should be exactly like the example below:
 
 ```console
-$ bash to-git-or-not-to-git.sh
 Chameleon
 28
 Male
-$
 ```
